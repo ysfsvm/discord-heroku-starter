@@ -1,20 +1,20 @@
 {
   "name": "discord-heroku-starter",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Simple discord.js bot.",
   "main": "node server.js",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
-    "@discordjs/opus": "^0.3.2",
-    "bufferutil": "^4.0.1",
+    "@discordjs/opus": "^0.3.3",
+    "bufferutil": "^4.0.3",
     "chalk": "4.1.0",
-    "discord.js": "^12.2.0",
+    "discord.js": "^12.5.1",
     "express": "^4.17.1",
-    "ffmpeg-static": "^4.2.3",
+    "ffmpeg-static": "^4.2.7",
     "fs": "0.0.2",
-    "moment": "^2.27.0",
+    "moment": "^2.29.1",
     "moment-duration-format": "^2.3.2",
     "os": "^0.1.1"
   },
